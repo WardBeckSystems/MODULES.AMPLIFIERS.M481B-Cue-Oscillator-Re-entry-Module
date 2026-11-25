@@ -1,0 +1,117 @@
+{
+ "code": "M481B",
+ "connector": "RTO-144",
+ "type": "M481B Cue OSC Re-entry Module",
+ "series": null,
+ "contacts": "21 contacts",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "8",
+   "signal": "RE-ENTRY THE M2 OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M481B/MANUALS/1982 - M481B - Cue OSC Re-entry Module.pdf",
+   "page": 5
+  },
+  {
+   "pin": "11",
+   "signal": "RE-ENTRY SELECTOR AND LEVEL CONTROL OF MASTER",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M481B/MANUALS/1982 - M481B - Cue OSC Re-entry Module.pdf",
+   "page": 4
+  },
+  {
+   "pin": "12",
+   "signal": "RE-ENTRY SELECTOR AND LEVEL CONTROL OF MASTER",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M481B/MANUALS/1982 - M481B - Cue OSC Re-entry Module.pdf",
+   "page": 4
+  },
+  {
+   "pin": "13",
+   "signal": "CUE/SOLO ASSI GN SWITCH SW2 ROUTES THIE",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M481B/MANUALS/1982 - M481B - Cue OSC Re-entry Module.pdf",
+   "page": 4
+  },
+  {
+   "pin": "17",
+   "signal": "RE-ENTRY THE M2 OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M481B/MANUALS/1982 - M481B - Cue OSC Re-entry Module.pdf",
+   "page": 5
+  },
+  {
+   "pin": "19",
+   "signal": "POWERSUPPLY POWER",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M481B/MANUALS/1982 - M481B - Cue OSC Re-entry Module.pdf",
+   "page": 5
+  },
+  {
+   "pin": "21",
+   "signal": "POWERSUPPLY POWER",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M481B/MANUALS/1982 - M481B - Cue OSC Re-entry Module.pdf",
+   "page": 5
+  },
+  {
+   "pin": "N",
+   "signal": "RE-ENTRY SELECTOR AND LEVEL CONTROL OF MASTER",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M481B/MANUALS/1982 - M481B - Cue OSC Re-entry Module.pdf",
+   "page": 4
+  },
+  {
+   "pin": "U",
+   "signal": "RE-ENTRY THE M2 OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M481B/MANUALS/1982 - M481B - Cue OSC Re-entry Module.pdf",
+   "page": 5
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M481B/M481B.rto144.json",
+  "Modules/AMPLIFIERS/M481B/MANUALS/1982 - M481B - Cue OSC Re-entry Module.pdf"
+ ]
+}
