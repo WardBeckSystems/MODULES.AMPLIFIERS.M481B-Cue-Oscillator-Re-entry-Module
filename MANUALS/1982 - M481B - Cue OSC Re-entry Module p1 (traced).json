@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M481B/MANUALS/1982 - M481B - Cue OSC Re-entry Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/6674bf4c2dc869b7-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1397, 2000],
+  "mm": [301.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [17.0, 26.1, 301.6, 431.8],
+ "outlines": {
+  "line": {"rings": 24, "straight": {"n": 773, "mm": 3108.6}, "curved": {"n": 102, "mm": 158.2}},
+  "text": {"rings": 443, "straight": {"n": 3333, "mm": 3943.7}, "curved": {"n": 871, "mm": 1356.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 49,
+  "lines": [
+   {"mm": [17.5, 404.2, 130.6, 411.4], "text": "WAAD-BecK systems LTD"},
+   {"mm": [116.6, 361.6, 137.7, 368.6], "text": "TABLE"},
+   {"mm": [140.3, 361.0, 185.0, 368.8], "text": "OF CONTENTS"},
+   {"mm": [77.1, 347.6, 225.0, 355.8], "text": "M481B CUE OSC ILLATOR RE-ENTRY MODULE"},
+   {"mm": [30.2, 315.6, 58.7, 322.6], "text": "SECTION"},
+   {"mm": [225.6, 313.5, 243.3, 321.6], "text": "PAGE"},
+   {"mm": [74.7, 282.6, 125.7, 290.3], "text": "Technical Data"},
+   {"mm": [214.0, 282.6, 235.1, 288.3], "text": "1-1 to"},
+   {"mm": [237.9, 282.4, 249.4, 288.9], "text": "1-2"},
+   {"mm": [74.5, 276.4, 98.7, 282.8], "text": "circuit"},
+   {"mm": [100.8, 275.9, 138.6, 282.9], "text": "Description"},
+   {"mm": [213.7, 275.5, 235.1, 282.4], "text": "2-1 t0"},
+   {"mm": [237.5, 275.3, 249.4, 281.7], "text": "2-2"},
+   {"mm": [74.5, 269.4, 109.9, 276.4], "text": "Parts List"},
+   {"mm": [214.0, 269.0, 235.1, 274.9], "text": "3-1 Lo"},
+   {"mm": [237.7, 269.7, 248.5, 274.9], "text": "3-4"},
+   {"mm": [74.3, 262.1, 133.4, 270.3], "text": "Connector Layout"},
+   {"mm": [214.0, 263.2, 223.7, 268.7], "text": "4-1"},
+   {"mm": [74.5, 255.8, 113.3, 262.8], "text": "Operational"},
+   {"mm": [115.9, 256.5, 144.0, 263.0], "text": "Controls"},
+   {"mm": [214.0, 256.7, 224.1, 262.0], "text": "51"},
+   {"mm": [74.3, 228.6, 106.0, 237.5], "text": "Drawings"},
+   {"mm": [74.5, 216.8, 142.3, 224.1], "text": "M\"81B Front Panel"},
+   {"mm": [221.3, 215.9, 255.8, 222.9], "text": "481-04-002"},
+   {"mm": [74.5, 210.5, 138.2, 217.6], "text": "ML8IB Functional"},
+   {"mm": [221.3, 209.9, 255.2, 216.3], "text": "481-01-001"},
+   {"mm": [74.5, 204.0, 134.7, 210.5], "text": "MLBIB Schemna tic"},
+   {"mm": [220.6, 203.4, 255.6, 209.9], "text": "481-02-002"},
+   {"mm": [73.8, 196.0, 162.4, 204.5], "text": "M481B Component Layout"},
+   {"mm": [213.1, 196.5, 255.6, 203.7], "text": "B 481-06-002"},
+   {"mm": [212.0, 49.7, 271.8, 58.4], "text": "MANUAL LSSUE#2"},
+   {"mm": [212.0, 37.8, 263.2, 45.4], "text": "DECEMBER 1982"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1397 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 17–302 mm across, 26–432 mm up",
+  "- **Outlines:** line 24 rings, 773 straight (3,109 mm) / 102 curved (158 mm); text 443 rings, 3,333 straight (3,944 mm) / 871 curved (1,357 mm)",
+  "- **Words (OCR):** 49 in 32 lines: WAAD-BecK systems LTD · TABLE · OF CONTENTS · M481B CUE OSC ILLATOR RE-ENTRY MODULE · SECTION · PAGE · Technical Data · 1-1 to · 1-2 · circuit · Description · 2-1 t0"
+ ]
+}

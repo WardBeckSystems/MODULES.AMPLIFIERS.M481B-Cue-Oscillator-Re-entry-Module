@@ -1,0 +1,91 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M481B/MANUALS/1982 - M481B - Cue OSC Re-entry Module.pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/6674bf4c2dc869b7-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1397, 2000],
+  "mm": [301.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [17.9, 17.9, 291.0, 424.7],
+ "outlines": {
+  "line": {"rings": 13, "straight": {"n": 743, "mm": 3539.0}, "curved": {"n": 84, "mm": 126.7}},
+  "text": {"rings": 380, "straight": {"n": 3095, "mm": 3581.8}, "curved": {"n": 855, "mm": 1317.7}},
+  "tb": {"rings": 9, "straight": {"n": 41, "mm": 46.9}, "curved": {"n": 12, "mm": 17.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 49,
+  "lines": [
+   {"mm": [17.7, 407.6, 131.3, 414.6], "text": "WAAD-BECK SYSTEMS LTD_"},
+   {"mm": [136.0, 364.9, 157.2, 371.3], "text": "PARTS"},
+   {"mm": [159.8, 364.4, 175.5, 371.4], "text": "LiST"},
+   {"mm": [81.8, 352.1, 101.3, 357.4], "text": "MLBTB"},
+   {"mm": [103.6, 350.8, 165.6, 358.0], "text": "CUE OSCILLAIOR,"},
+   {"mm": [168.4, 350.2, 229.7, 358.0], "text": "RE-ENTRY MODULE"},
+   {"mm": [94.3, 337.2, 149.4, 345.3], "text": "CONTROL KNOBS,"},
+   {"mm": [152.6, 337.2, 216.8, 345.0], "text": "CAPS AND BUTIONS"},
+   {"mm": [30.2, 311.3, 46.9, 318.3], "text": "USED"},
+   {"mm": [49.7, 311.3, 113.8, 318.5], "text": "ON DESCRIPTION"},
+   {"mm": [170.6, 312.0, 184.6, 318.5], "text": "MFG"},
+   {"mm": [218.5, 311.3, 280.0, 318.5], "text": "MFG PART NUMBER"},
+   {"mm": [30.4, 299.2, 42.3, 304.8], "text": "SwI"},
+   {"mm": [70.2, 299.0, 92.2, 305.5], "text": "Button"},
+   {"mm": [95.2, 297.9, 117.7, 305.9], "text": "(Grey )"},
+   {"mm": [173.8, 299.0, 182.4, 305.5], "text": "TT"},
+   {"mm": [218.1, 298.4, 247.2, 304.9], "text": "FM-GREY"},
+   {"mm": [30.2, 291.9, 43.2, 298.4], "text": "Sw2"},
+   {"mm": [97.2, 291.9, 118.7, 298.4], "text": "White)"},
+   {"mm": [173.8, 292.5, 182.4, 299.0], "text": "TT"},
+   {"mm": [218.1, 291.9, 240.3, 298.4], "text": "FM-WH"},
+   {"mm": [30.2, 285.4, 43.2, 291.9], "text": "Sw3"},
+   {"mm": [96.9, 285.0, 113.3, 292.9], "text": "Grey"},
+   {"mm": [171.2, 286.3, 182.0, 291.6], "text": "ITT"},
+   {"mm": [218.1, 285.4, 247.2, 292.4], "text": "FM-GREY"},
+   {"mm": [30.7, 75.1, 114.2, 81.6], "text": "WBS recommends the use"},
+   {"mm": [116.6, 73.8, 218.9, 81.6], "text": "of replacerent parts made by"},
+   {"mm": [221.7, 73.8, 266.4, 81.5], "text": "the specified"},
+   {"mm": [30.7, 68.0, 157.0, 75.1], "text": "manufaclurers ior continued optimum"},
+   {"mm": [159.1, 67.4, 239.4, 75.0], "text": "equipment performance ."},
+   {"mm": [151.3, 17.1, 161.5, 21.9], "text": "3-4"}
+  ]
+ },
+ "title_block": {
+  "mm": [11.8, 66.4, 118.3, 423.2],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BECK SYSTEMS LTD_",
+   "MLBTB",
+   "USED",
+   "ON DESCRIPTION",
+   "SwI",
+   "Button",
+   "(Grey )",
+   "Sw2",
+   "White)",
+   "Sw3",
+   "Grey",
+   "WBS recommends the use",
+   "manufaclurers ior continued optimum"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 302 × 432 mm, 1397 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 18–291 mm across, 18–425 mm up",
+  "- **Outlines:** line 13 rings, 743 straight (3,539 mm) / 84 curved (127 mm); text 380 rings, 3,095 straight (3,582 mm) / 855 curved (1,318 mm); tb 9 rings, 41 straight (46.9 mm) / 12 curved (17.1 mm)",
+  "- **Words (OCR):** 49 in 31 lines: WAAD-BECK SYSTEMS LTD_ · PARTS · LiST · MLBTB · CUE OSCILLAIOR, · RE-ENTRY MODULE · CONTROL KNOBS, · CAPS AND BUTIONS · USED · ON DESCRIPTION · MFG · MFG PART NUMBER",
+  "- **Title block:** (12, 66)–(118, 423) mm: WAAD-BECK SYSTEMS LTD_ · MLBTB · USED · ON DESCRIPTION · SwI · Button · (Grey ) · Sw2 · White) · Sw3 · Grey · WBS recommends the use · manufaclurers ior continued optimum"
+ ]
+}

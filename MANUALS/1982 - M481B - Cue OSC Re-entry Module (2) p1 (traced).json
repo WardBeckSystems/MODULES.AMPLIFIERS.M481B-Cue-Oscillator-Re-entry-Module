@@ -1,0 +1,108 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M481B/MANUALS/1982 - M481B - Cue OSC Re-entry Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/76b2773ef0a0be85-p1.svg",
+ "sheet": {
+  "number": "481_02_002",
+  "title": "",
+  "dtype": "02",
+  "type": "schematic",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1397, 2000],
+  "mm": [301.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "15"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [17.1, 25.9, 301.6, 431.8],
+ "outlines": {
+  "line": {"rings": 124, "straight": {"n": 1675, "mm": 4294.4}, "curved": {"n": 321, "mm": 511.9}},
+  "text": {"rings": 340, "straight": {"n": 2425, "mm": 2728.0}, "curved": {"n": 698, "mm": 1048.8}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 36, "straight": {"n": 71, "mm": 1608.7}, "curved": {"n": 25, "mm": 25.0}},
+   "text": {"paths": 1716, "straight": {"n": 2675, "mm": 2457.9}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 57,
+  "orientation": {"horizontal": {"n": 588, "mm": 1341.9}, "vertical": {"n": 648, "mm": 1298.3}, "diagonal": {"n": 1510, "mm": 1426.4}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [77.2, 259.9], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [40.9, 319.4], "r": 1.7, "kind": "arc", "span": 250, "from": ["centre line"], "start": 301},
+  {"c": [76.8, 273.8], "r": 1.3, "kind": "arc", "span": 197, "from": ["centre line"], "start": 213},
+  {"c": [93.9, 353.0], "r": 1.2, "kind": "arc", "span": 226, "from": ["centre line"], "start": 204},
+  {"c": [33.1, 318.6], "r": 1.1, "kind": "arc", "span": 266, "from": ["centre line"], "start": 117},
+  {"c": [87.0, 353.1], "r": 1.0, "kind": "arc", "span": 242, "from": ["centre line"], "start": 212}
+ ],
+ "boxes": [{"mm": [53.3, 405.5, 57.6, 410.0], "w": 4.3, "h": 4.5, "from": "ring", "words": ["·eECK"]}],
+ "text": {
+  "words": 65,
+  "lines": [
+   {"mm": [17.7, 403.3, 68.7, 409.1], "text": "WA~D ·eECK"},
+   {"mm": [72.3, 403.7, 128.5, 409.3], "text": "SYSTEMS LTD"},
+   {"mm": [117.4, 361.4, 183.5, 366.5], "text": "TABLE OF CONTE NTS"},
+   {"mm": [77.3, 348.5, 219.6, 353.5], "text": "M4 1B CUE, OSC ILL ATOR, RE _ENTRY MODUL"},
+   {"mm": [226.5, 315.2, 241.4, 321.9], "text": "PA.,."},
+   {"mm": [31.5, 315.0, 57.9, 320.5], "text": "SECTION"},
+   {"mm": [75.8, 282.6, 102.8, 287.9], "text": "Tech ic.."},
+   {"mm": [75.3, 275.5, 137.5, 282.7], "text": "cr-eon Descr iption"},
+   {"mm": [101.0, 269.7, 109.7, 274.7], "text": "i,.1"},
+   {"mm": [75.3, 262.5, 106.4, 267.8], "text": "Conneclor"},
+   {"mm": [122.4, 262.5, 129.3, 267.8], "text": "ou"},
+   {"mm": [75.3, 255.8, 139.0, 261.3], "text": "Opera tion al Control"},
+   {"mm": [75.6, 229.7, 101.3, 235.0], "text": "Drawing"},
+   {"mm": [75.3, 217.2, 93.5, 222.2], "text": "M4 8tB"},
+   {"mm": [110.1, 216.5, 135.8, 221.8], "text": "onl an"},
+   {"mm": [222.6, 216.8, 255.0, 221.8], "text": "48t -04.002"},
+   {"mm": [75.3, 210.5, 93.5, 215.5], "text": "MlI 81B"},
+   {"mm": [103.6, 210.3, 136.4, 215.6], "text": "Fun ionill"},
+   {"mm": [222.6, 210.5, 251.7, 215.5], "text": "48 1_0 1_00"},
+   {"mm": [75.3, 204.0, 93.5, 209.1], "text": "M481B"},
+   {"mm": [103.0, 204.0, 124.4, 209.3], "text": "Sch.,.\".."},
+   {"mm": [222.6, 203.8, 255.0, 208.8], "text": "481_02_002"},
+   {"mm": [74.9, 197.3, 93.3, 202.4], "text": "M481B"},
+   {"mm": [103.2, 197.3, 125.9, 202.6], "text": "Com pon"},
+   {"mm": [140.3, 197.3, 161.3, 202.6], "text": "La ul"},
+   {"mm": [222.6, 196.9, 255.0, 201.9], "text": "481 -06-002"},
+   {"mm": [257.4, 51.8, 276.1, 60.0], "text": "ps"},
+   {"mm": [214.2, 51.8, 234.0, 56.9], "text": "MANUA"},
+   {"mm": [245.9, 51.8, 260.2, 56.9], "text": "SSUE"},
+   {"mm": [264.3, 51.6, 272.0, 57.6], "text": "12"},
+   {"mm": [247.0, 41.5, 266.6, 51.8], "text": "BS"},
+   {"mm": [214.2, 38.9, 263.2, 43.9], "text": "DECE MBER 1982"},
+   {"mm": [226.9, 21.4, 243.5, 27.9], "text": "tp"},
+   {"mm": [220.4, 14.9, 239.2, 21.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "nets": {
+  "groups": 7,
+  "wire_runs": 43,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 134.1, "runs": 4, "ends": 2, "bbox": [288.0, 27.2, 288.9, 161.3], "labels": []},
+   {"mm": 125.0, "runs": 3, "ends": 2, "bbox": [77.7, 348.0, 203.6, 348.7], "labels": ["M4", "MODUL"]},
+   {"mm": 66.3, "runs": 2, "ends": 2, "bbox": [117.9, 361.2, 184.2, 361.8], "labels": ["TABLE", "NTS"]},
+   {"mm": 45.6, "runs": 2, "ends": 2, "bbox": [242.2, 26.8, 287.8, 27.2], "labels": ["BS", "tp", "ht"]},
+   {"mm": 39.1, "runs": 2, "ends": 2, "bbox": [217.6, 51.2, 256.7, 51.6], "labels": ["MANUA", "BS", "ps", "SSUE", "1982", "12"]},
+   {"mm": 19.0, "runs": 1, "ends": 2, "bbox": [205.1, 347.8, 224.1, 348.0], "labels": ["MODUL"]},
+   {"mm": 15.5, "runs": 1, "ends": 2, "bbox": [226.7, 315.0, 242.2, 315.0], "labels": ["PA.,."]}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** schematic 481_02_002, size B (assumed) 302 × 432 mm, 1397 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 17–302 mm across, 26–432 mm up",
+  "- **Outlines:** line 124 rings, 1,675 straight (4,294 mm) / 321 curved (512 mm); text 340 rings, 2,425 straight (2,728 mm) / 698 curved (1,049 mm)",
+  "- **Centre lines:** 1,752 paths (57 closed); straight 4,067 mm, curved 25.0 mm; horizontal 1,342 mm, vertical 1,298 mm, diagonal 1,426 mm",
+  "- **Circles and arcs:** 1 circles, 5 arcs; largest r 2.1 @ (77.2, 259.9)",
+  "- **Closed boxes:** 1; named: ·eECK",
+  "- **Words (OCR):** 65 in 34 lines: WA~D ·eECK · SYSTEMS LTD · TABLE OF CONTE NTS · M4 1B CUE, OSC ILL ATOR, RE _ENTRY MODUL · PA.,. · SECTION · Tech ic.. · cr-eon Descr iption · i,.1 · Conneclor · ou · Opera tion al Control",
+  "- **Wiring (first pass):** 7 connected wire groups from 43 runs; labelled ends: 125 mm → M4, MODUL; 66 mm → TABLE, NTS; 46 mm → BS, tp, ht; 39 mm → MANUA, BS, ps, SSUE; 19 mm → MODUL"
+ ]
+}
