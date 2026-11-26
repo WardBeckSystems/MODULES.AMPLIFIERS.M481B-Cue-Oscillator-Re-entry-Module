@@ -25,7 +25,7 @@ Wiki page: [M481B](../../../../PAGES/M481B.md)
 - **Outlines:** line 24 rings, 773 straight (3,109 mm) / 102 curved (158 mm); text 443 rings, 3,333 straight (3,944 mm) / 871 curved (1,357 mm)
 - **Words (OCR):** 49 in 32 lines: WAAD-BecK systems LTD · TABLE · OF CONTENTS · M481B CUE OSC ILLATOR RE-ENTRY MODULE · SECTION · PAGE · Technical Data · 1-1 to · 1-2 · circuit · Description · 2-1 t0
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p1 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p1%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p1 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p1%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -34,7 +34,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Outlines:** line 41 rings, 755 straight (3,170 mm) / 110 curved (172 mm); text 1,011 rings, 7,189 straight (7,998 mm) / 2,012 curved (3,056 mm)
 - **Words (OCR):** 130 in 64 lines: WAAD-BeCK Systems LTD: · TECHNICAL DALA · CUE OSC , RF_ENTRY · MODULE · M81B · CUE AMPL IFIER · Gain: · 25 dB · dB (bridging gain) · Frequency Response: · dB from 100 Hz to · kHz
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p2 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p2%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p2 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p2%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -44,7 +44,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Dots (junctions):** 1
 - **Words (OCR):** 115 in 74 lines: TECHNICAL DATA · M81B CUE OSC , · RE-ENTRY MODULE · Master · Auxiliary · Nominal Level · Control Setting: · 10 · dB · in hand, · Input Level · -10 dBm nominal
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p3 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p3%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p3 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p3%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -53,7 +53,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Outlines:** line 41 rings, 815 straight (3,223 mm) / 129 curved (192 mm); text 2,120 rings, 14,793 straight (16,131 mm) / 4,470 curved (6,709 mm)
 - **Words (OCR):** 308 in 132 lines: WAAD-Beck Systems LTD; · CIRcUIT DESCRIP |ION · M481B · CUE OSC ILLATOR RE-ENTRY MODULE · The M4818 module · prov ides the · following functions for the · T1202A · transportable mixing console: · Cue · Amplifier with · CUE /SOLO select function
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p4 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p4%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p4 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p4%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -64,7 +64,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Dots (junctions):** 1
 - **Words (OCR):** 298 in 139 lines: WAAD-BECK Systems LTD; · CIRcUIT DESCRIPTION · M48IB CUE, OSCILLATOR. · RES ENTRY · MODULE · The output · from the · first · section of U1 operates into the · inverting · integrating · amplifier formed
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p5 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p5%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p5 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p5%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -74,7 +74,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Words (OCR):** 119 in 106 lines: WAAD-BECK systems LTD · PARTS LiST · M481R CUE OSC ILLATOR RE-ENTRY · MODULE · PART · DESCRIPTION · MFG · MFG PART · NUMBER · C1 · Capacitor · 22uF /25
 - **Title block:** (10, 79)–(237, 418) mm: WAAD-BECK systems LTD · PARTS LiST · M481R CUE OSC ILLATOR RE-ENTRY · MODULE · PART · DESCRIPTION · MFG · MFG PART · C1 · Capacitor · 22uF /25 · Siemens · C2 · c3 · C4 · C5 · 68uF/6 · Kemet · C6 · S0O
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p6 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p6%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p6 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p6%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -84,7 +84,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Words (OCR):** 99 in 90 lines: WAAD-BECK systems LTD · PARIS LiIST · M4818 CUE OSC ILLATOR RE-ENTRY · MODULE · PART · DESCRIPTION · MFG · MFG · PARTNUMBER · R9 · Trim Pot · 500
 - **Title block:** (11, 290)–(238, 423) mm: WAAD-BECK systems LTD · PARIS LiIST · M4818 CUE OSC ILLATOR RE-ENTRY · MODULE · PART · DESCRIPTION · MFG · MFG · R9 · Trim Pot · 500 · Piher · PTIOH · R1O · Sk · PTIOV 5k · RII) · Potentiometer · 5k ·
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p7 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p7%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p7 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p7%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -94,7 +94,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Words (OCR):** 102 in 88 lines: WAAD-BECK Systems LTD · PARTS LiST · Ma8iB CUE · OSC ILLATOR RE-ENTRY · MODULE · PART · DESCRIPTION · MFG · MFG PART · NUMBER · R45 · Resistor
 - **Title block:** (11, 195)–(237, 421) mm: WAAD-BECK Systems LTD · PARTS LiST · Ma8iB CUE · OSC ILLATOR RE-ENTRY · MODULE · PART · DESCRIPTION · MFG · MFG PART · R45 · Resistor · I/4w · 1Sk · Philips · R46 · 22k · R4? · 4K7 · R48 · 4K7 · R4g ·
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p8 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p8%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p8 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p8%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -104,7 +104,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Words (OCR):** 49 in 31 lines: WAAD-BECK SYSTEMS LTD_ · PARTS · LiST · MLBTB · CUE OSCILLAIOR, · RE-ENTRY MODULE · CONTROL KNOBS, · CAPS AND BUTIONS · USED · ON DESCRIPTION · MFG · MFG PART NUMBER
 - **Title block:** (12, 66)–(118, 423) mm: WAAD-BECK SYSTEMS LTD_ · MLBTB · USED · ON DESCRIPTION · SwI · Button · (Grey ) · Sw2 · White) · Sw3 · Grey · WBS recommends the use · manufaclurers ior continued optimum
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p9 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p9%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p9 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p9%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -114,7 +114,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Closed boxes:** 43; named: 10; 12; 113; 14; 16; 17; 18; 19; 20; 21; 22
 - **Words (OCR):** 132 in 69 lines: WAAO-Beck systems LTD · P1 · CONNECTOR LAYOUT · M48IB CUE · OSCILLAIOR; RE-ENTRY MODULE · MI · MI · REF OSC · REF OSC · INSERT IN · INSERT TN · M2
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p10 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p10%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p10 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p10%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -123,7 +123,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Outlines:** line 33 rings, 832 straight (2,946 mm) / 121 curved (187 mm); text 931 rings, 6,986 straight (7,983 mm) / 2,014 curved (3,036 mm)
 - **Words (OCR):** 137 in 56 lines: WAAD-BECK Systems LTD_ · OPERATIONAL · CONTROLS · MLBTB CUE, · OSC · RE-ENTRY MODULE · REFERENCY OSC ILLATOR switch SWI When · depressed_ the audio · program · following the Master · faders of Mi and · M2 are
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p11 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p11%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p11 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p11%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -134,7 +134,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Words (OCR):** 31 in 26 lines: WBS · M481B · AUX · MASTFR · REF OSC · SOLO · LEVEL · CUE SOLO · CUE · LEVEL · M2 TO Mi · RE-ENTRY
 - **Title block:** (113, 0)–(328, 422) mm: WBS · M481B · AUX · MASTFR · REF OSC · SOLO · LEVEL · CUE SOLO · CUE · LEVEL · M2 TO Mi · RE-ENTRY · LEVEL · IS SUE DATE · REvisiOn · 4PP · WBS WARD-BECk systems · M48 IB · ENG Mrh 12/79 · CUE , OSC, 
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p12 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p12%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p12 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p12%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -146,7 +146,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Words (OCR):** 51 in 43 lines: LOTESi · DIFFERENT Heat3ink _Tilized · PriCR · ARily 216 717 APE · NREYOLS · FCB ISSLE · 2 8 R16 270 · 82 · 88,38 · 222223 88 · 44 4 $ · 61
 - **Title block:** (202, 0)–(432, 95) mm: 1-8,1 · WBS 13-0151 · R36 · REViSOR · WBS WARD-BECK systens · M4818 · CUE, OSC; · RE-ENTRY · MODULE · COMPONENT LAYout · SCALE · IS5ue · 481-06 002
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p13 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p13%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p13 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p13%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -159,7 +159,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Words (OCR):** 81 in 76 lines: FROM · (-10dB) · To · AUX MASTER · AUX MASTER · INSERT · INSERT · Out · AUX MsTr · LEVEL · (OdB) · Mi
 - **Title block:** (283, 1)–(432, 71) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · ENG. Mrv I1/79 · M48 IB · CUE , OSC, RE-ENTRY MODULE · CKD: · FUNCTIONAL DIAGRAM · APP · SCALE · 48 1-01-001 · ISSUE
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p14 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p14%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p14 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p14%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -173,7 +173,7 @@ Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p
 - **Title block:** (352, 0)–(432, 39) mm: Dt · Issue]Date · REVISION · APP · WBS WAAD-BECK SYSTEMS · DRN 2uenens · M48 IB · ENG, · CKD · WIJ · CUE, OSC_ RE-ENTRY MODULE · APP · SCHEMATIC · SCALE · 481-02-002 · ISSUE
 - **Wiring (first pass):** 139 connected wire groups from 630 runs; labelled ends: 140 mm → RA3, 1Ok, Rso, 1OK; 81 mm → CUE{sola, AsSiGN, Swz, RRZ; 75 mm → R26, 4k7, 68/6; 73 mm → R2s, p8e, F2}; 63 mm → R3O, Ipok, R34, 1OK
 
-Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p15 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p15%20(traced).json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - Cue OSC Re-entry Module p15 (traced).json](../MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p15%20%28traced%29.json) (the CAD file: `1982 - M481B - Cue OSC Re-entry Module p15 (traced).dxf`).
 
 ## Full text
 

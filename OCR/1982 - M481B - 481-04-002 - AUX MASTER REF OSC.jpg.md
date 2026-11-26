@@ -20,7 +20,7 @@ Wiki page: [M481B](../../../../PAGES/M481B.md)
 - **Words (OCR):** 34 in 27 lines: WBS · M481B · AUX · MASTER · REF OSC · SOLO · LEVEL · CUE SOLO · CUE · LEVEL · M2 To Mi · RE-ENTRY
 - **Title block:** (113, 0)–(328, 422) mm: WBS · M481B · AUX · MASTER · REF OSC · SOLO · LEVEL · CUE SOLO · CUE · LEVEL · M2 To Mi · RE-ENTRY · LEVEL · REVISION · ISSUE DATE · APP · WBS WARO-BeCk systems · DRN · M48 1B · ENG Mrw 12/79 · CUE OS
 
-Every curve, box, word and wire group: [1982 - M481B - 481-04-002 - AUX MASTER REF OSC (traced).json](../MECHANICAL/1982%20-%20M481B%20-%20481-04-002%20-%20AUX%20MASTER%20REF%20OSC%20(traced).json) (the CAD file: `1982 - M481B - 481-04-002 - AUX MASTER REF OSC (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - 481-04-002 - AUX MASTER REF OSC (traced).json](../MECHANICAL/1982%20-%20M481B%20-%20481-04-002%20-%20AUX%20MASTER%20REF%20OSC%20%28traced%29.json) (the CAD file: `1982 - M481B - 481-04-002 - AUX MASTER REF OSC (traced).dxf`).
 
 ## Full text
 

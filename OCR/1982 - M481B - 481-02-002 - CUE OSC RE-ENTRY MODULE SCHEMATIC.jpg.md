@@ -24,7 +24,7 @@ Wiki page: [M481B](../../../../PAGES/M481B.md)
 - **Title block:** (352, 0)–(432, 39) mm: Lul · 4t2 · Issu oate · REvisION · WBS · WAAD-BECK systeMs · DRN PMaet · M48 IB · ENG_ · cKD 44 · WS · CUE, OSC, RE-ENTRY MODULE · APP · SCHEMATIC · SCALE · 481-02-002 · ISSUE
 - **Wiring (first pass):** 138 connected wire groups from 628 runs; labelled ends: 81 mm → CUe/SoLO, ASSIGN, Swz, RRA; 80 mm → Rso, Hok, Rs4, 500; 77 mm → R26, 4k7, C6, 68/6; 75 mm → C5, pele, 82;, RRR; 65 mm → Sw1, RS, 500, R49
 
-Every curve, box, word and wire group: [1982 - M481B - 481-02-002 - CUE OSC RE-ENTRY MODULE SCHEMATIC (traced).json](../SCHEMATICS/1982%20-%20M481B%20-%20481-02-002%20-%20CUE%20OSC%20RE-ENTRY%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `1982 - M481B - 481-02-002 - CUE OSC RE-ENTRY MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1982 - M481B - 481-02-002 - CUE OSC RE-ENTRY MODULE SCHEMATIC (traced).json](../SCHEMATICS/1982%20-%20M481B%20-%20481-02-002%20-%20CUE%20OSC%20RE-ENTRY%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1982 - M481B - 481-02-002 - CUE OSC RE-ENTRY MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

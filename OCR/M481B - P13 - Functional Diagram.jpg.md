@@ -15,6 +15,20 @@ Wiki page: [M481B](../../../../PAGES/M481B.md)
 - **Size:** 69,308 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** functional, size B (assumed) 432 × 282 mm, 900 × 587 px traced (0.480 mm/px)
+- **Ink extent:** 10–432 mm across, 0–271 mm up
+- **Outlines:** line 206 rings, 2,254 straight (8,567 mm) / 396 curved (1,022 mm); text 87 rings, 980 straight (1,746 mm) / 252 curved (652 mm); tb 15 rings, 160 straight (402 mm) / 37 curved (101 mm)
+- **Centre lines:** 4,390 paths (47 closed); straight 6,929 mm, curved 41.9 mm; horizontal 2,949 mm, vertical 1,369 mm, diagonal 2,611 mm
+- **Circles and arcs:** 0 circles, 7 arcs
+- **Closed boxes:** 16 (5 in the title block)
+- **Words (OCR):** 35 in 32 lines: AuX MASTER · HASTER · HSTR · IRSERT · LEVEL · (0da) · FROM · MZ To mi · Mixer · RE-EhtRY · Oscillatoa · INSLRT
+- **Title block:** (283, 1)–(432, 71) mm: RevisiON · WBS WAAD-BeCk SysteMs · DRN: · M4818 · CUE , OSC, RE-ENTRY MODULE · CKD · FUNCTIONALI · ScalE · 48 1-01-00T
+- **Wiring (first pass):** 83 connected wire groups from 264 runs; labelled ends: 113 mm → hohitor; 85 mm → HSTR; 78 mm → MZ To mi; 74 mm → CUE (SOLo; 65 mm → CUE (SOLo
+
+Every curve, box, word and wire group: [M481B - P13 - Functional Diagram (traced).json](../SCHEMATICS/M481B%20-%20P13%20-%20Functional%20Diagram%20%28traced%29.json) (the CAD file: `M481B - P13 - Functional Diagram (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 7 words corrected)
