@@ -13,6 +13,132 @@ Ward-Beck Systems M481B, 1982|15. Wiki page: [M481B on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 27 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [8 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1982 - M481B - Cue OSC Re-entry Module.pdf](MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module.pdf) page 2 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | 25 dB +/-2 dB (bridging gain) |
+| **Frequency response** | +/-1 dB from 100 Hz to kHz |
+| **Noise** | 80 dB below watts output (20 Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 0.5% from 100 Hz to kHz at watts output. |
+| **Source impedances** |  |
+| &nbsp;&nbsp;External cue input | Cue/Solo Input: 600 ohms maximum; balanced 600 ohms maximum, balanced |
+| **Input impedances** |  |
+| &nbsp;&nbsp;External cue input | Cue/Solo Input: 600 ohms, balanced. 30,000 ohms, balanced, |
+| &nbsp;&nbsp;Input level |  |
+| **External cue input** | Cue/Solo Input: +8 dBm nominal +24 dBm maximum. 18 dBm nominal +24 dBm maximum. |
+| **Output level** | Less than 0.5 ohm. |
+| **Load impedance** | 8 ohms, unbalanced |
+| **Output impedance** | 200 milliwatts nominal, watts maximum under normal program conditions. M2 Eo MI Rezentry |
+| **Nominal level control setting** | dB in hand. |
+| **Input level** | +8 dBm nominal, +24 dBm maximum. |
+
+## Circuit description
+
+From [1982 - M481B - Cue OSC Re-entry Module.pdf](MANUALS/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module.pdf) pages 5-9 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The output from the first section of u1 operates into the inverting integrating amplifier formed by the second section of U1 The amplitude of the positive feedback is determined by R34 and the amplitude stabilizing clipping diodes CR3 and CR4. The phase shift determined by the second section of U1; controls the amount of positive feedback and therefore the distortion RB is normally adjusted to give an output with approximately 0.57 distortion at frequency of kHz. RlO i5 the osci Ta or Level trim adjustment, which Ts accessible vTa small hole in the module front panel u2 are output buffer amplifiers which provide an actively balanced output at pins K of the module connector at nominal Level of 48 dBrri - Additionally, there Ts take-otf at Pins 10 L to feed the meler selector. loss network R49 R50 and R9 feeds reference level through switch Swi to Masters and 2. Re-entry The M2 output appearing at pins 17 &amp; U ot this module; is routed through MI Re-en try switch Sw3 and Re-entry Level control RS/R6 to summing resistors R27 and R28 These resistors connect to the M1 summing bus via pins 8 at the module connector AuX Master Level Control The AuX Master level control is connected to the Aux Master insert point of the M4B7 dual master module. Power_Supply Power is derived from the console integral +/ -25 volt supply which appears a[ pins 21 and 19 of the module connector. It is coupled through polarity reversing diodes CRI and CR2 to tne decoupling Timer networks R14, R1S; and C1 through C4. This Ts internally connected Lo tne oscillator and preamplifier section of the cue amplifier at nominal value ot +/ = 16 volts. The watt amplifier U4 derives its power from the 125 volts supply rail via fuse FI and CR6. C19 filters the supply voltage to U4.
+
+PARTS LiST
+
+**MFG PART NUMBER**
+
+C1 C2 c3 C4 C5 Capacitor 22uF /25 Siemens 841313-45226-2 68uF/6 Kemet
+
+**C6 C? CB C9 C10**
+
+S0OpF Aselco ca92-MC-152m 1OuF /25 V Kerrie[
+
+**T390C |06MO25AS**
+
+Cii C12 C13 C14 C15 1OOOpF 6800pF 1OOuF/25 680pF 6800pF Aselco c092-MC-102m c092 MC-682m 426ETF100 2222-630-03681 ca92 MC 682M Philips Aselco C16 C17 C1B C19 C20 CRI CR2 CR3 CRL CRS CR6 470uF /16 V Siemens 1OuF /25 Kemet
+
+**B41283-44477-T 1390C 106MO25A5**
+
+1OOuF /25 V Philips 22uF /25 Siemens
+
+**426ETF100 8413I3-45226-2 IN4003**
+
+Diode, Zener Motorola
+
+**IN4003**
+
+Fuse 0.5A FB Relay Potentiometer Buss Siemens NB
+
+**R7 R8**
+
+Trim Pot 50K 50k Piher PtiOH sok
+
+PARTS LiST
+
+**MFG PART NUMBER**
+
+R9 R10 Ri) Trim Pot 500 Sk 5k 'A' Piher PTIOH 500 PTiOV 5k WBS 10-015 Potentiometer
+
+**R12 R13 R14 R15 R16**
+
+Resistor i/4w5% 620 8K2 750 750 270 Philips RI? R1B R19 R20 270 15k 15k 3k
+
+**R2I R22 R23 R24 R25**
+
+3k 620 15k 15K ak?
+
+**R26 R27 R2B R29 R30**
+
+4k7 15k 15k' 15K 10ok
+
+**R3I R32 R33 R34 R35**
+
+15k 15K 91k 10k 47K
+
+**R36 R37 R38 R39 R40**
+
+10k 620 Ak? 22k 4k7
+
+**R41 R42 R43 R44**
+
+15k 15k 620 15k
+
+PARTS LiST Mh8iB CUE OSCILLATOR RE-ENTRY MODULE
+
+**R45 R46 R4? R48 RL9**
+
+Resistor 1/4w 5% 15k 22k 4K7 4K7 I0k Philips
+
+**RSO R5I R52 R53 R54**
+
+10k 220 2K2 300 300 1/2w 5% 1/4w 596
+
+**R55 R56 R57**
+
+J00 300 620 Swi SW2 SW3 Switch
+
+**WBS 11-002**
+
+U1 u2 u3 44 Integrated circuit National
+
+**RI) R2)**
+
+Knob (Black) Cap (Black) Elma 021-352 040-302
+
+**R3) R4)**
+
+Knob (Black Cap (Black) 021-352 040-302 Rs) R6) Knob (Black) Cap (Black 021-352 040-302
+
+Knob (Black) Cap (Black) 021-352 040-302
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

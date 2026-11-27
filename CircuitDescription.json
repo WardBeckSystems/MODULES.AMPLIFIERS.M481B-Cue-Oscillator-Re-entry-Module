@@ -1,0 +1,147 @@
+{
+ "module": "M481B",
+ "source": {
+  "file": "MANUALS/1982 - M481B - Cue OSC Re-entry Module.pdf",
+  "pages": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ },
+ "ocr_quality": 0.85,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The output from the first section of u1 operates into the inverting integrating amplifier formed by the second section of U1 The amplitude of the positive feedback is determined by R34 and the amplitude stabilizing clipping diodes CR3 and CR4. The phase shift determined by the second section of U1; controls the amount of positive feedback and therefore the distortion RB is normally adjusted to give an output with approximately 0.57 distortion at frequency of kHz. RlO i5 the osci Ta or Level trim adjustment, which Ts accessible vTa small hole in the module front panel u2 are output buffer amplifiers which provide an actively balanced output at pins K of the module connector at nominal Level of 48 dBrri - Additionally, there Ts take-otf at Pins 10 L to feed the meler selector. loss network R49 R50 and R9 feeds reference level through switch Swi to Masters and 2. Re-entry The M2 output appearing at pins 17 & U ot this module; is routed through MI Re-en try switch Sw3 and Re-entry Level control RS/R6 to summing resistors R27 and R28 These resistors connect to the M1 summing bus via pins 8 at the module connector AuX Master Level Control The AuX Master level control is connected to the Aux Master insert point of the M4B7 dual master module. Power_Supply Power is derived from the console integral +/ -25 volt supply which appears a[ pins 21 and 19 of the module connector. It is coupled through polarity reversing diodes CRI and CR2 to tne decoupling Timer networks R14, R1S; and C1 through C4. This Ts internally connected Lo tne oscillator and preamplifier section of the cue amplifier at nominal value ot +/ = 16 volts. The watt amplifier U4 derives its power from the 125 volts supply rail via fuse FI and CR6. C19 filters the supply voltage to U4.",
+    "PARTS LiST"
+   ]
+  },
+  {
+   "heading": "MFG PART NUMBER",
+   "paragraphs": [
+    "C1 C2 c3 C4 C5 Capacitor 22uF /25 Siemens 841313-45226-2 68uF/6 Kemet"
+   ]
+  },
+  {
+   "heading": "C6 C? CB C9 C10",
+   "paragraphs": [
+    "S0OpF Aselco ca92-MC-152m 1OuF /25 V Kerrie["
+   ]
+  },
+  {
+   "heading": "T390C |06MO25AS",
+   "paragraphs": [
+    "Cii C12 C13 C14 C15 1OOOpF 6800pF 1OOuF/25 680pF 6800pF Aselco c092-MC-102m c092 MC-682m 426ETF100 2222-630-03681 ca92 MC 682M Philips Aselco C16 C17 C1B C19 C20 CRI CR2 CR3 CRL CRS CR6 470uF /16 V Siemens 1OuF /25 Kemet"
+   ]
+  },
+  {
+   "heading": "B41283-44477-T 1390C 106MO25A5",
+   "paragraphs": [
+    "1OOuF /25 V Philips 22uF /25 Siemens"
+   ]
+  },
+  {
+   "heading": "426ETF100 8413I3-45226-2 IN4003",
+   "paragraphs": [
+    "Diode, Zener Motorola"
+   ]
+  },
+  {
+   "heading": "IN4003",
+   "paragraphs": [
+    "Fuse 0.5A FB Relay Potentiometer Buss Siemens NB"
+   ]
+  },
+  {
+   "heading": "R7 R8",
+   "paragraphs": [
+    "Trim Pot 50K 50k Piher PtiOH sok",
+    "PARTS LiST"
+   ]
+  },
+  {
+   "heading": "MFG PART NUMBER",
+   "paragraphs": [
+    "R9 R10 Ri) Trim Pot 500 Sk 5k 'A' Piher PTIOH 500 PTiOV 5k WBS 10-015 Potentiometer"
+   ]
+  },
+  {
+   "heading": "R12 R13 R14 R15 R16",
+   "paragraphs": [
+    "Resistor i/4w5% 620 8K2 750 750 270 Philips RI? R1B R19 R20 270 15k 15k 3k"
+   ]
+  },
+  {
+   "heading": "R2I R22 R23 R24 R25",
+   "paragraphs": [
+    "3k 620 15k 15K ak?"
+   ]
+  },
+  {
+   "heading": "R26 R27 R2B R29 R30",
+   "paragraphs": [
+    "4k7 15k 15k' 15K 10ok"
+   ]
+  },
+  {
+   "heading": "R3I R32 R33 R34 R35",
+   "paragraphs": [
+    "15k 15K 91k 10k 47K"
+   ]
+  },
+  {
+   "heading": "R36 R37 R38 R39 R40",
+   "paragraphs": [
+    "10k 620 Ak? 22k 4k7"
+   ]
+  },
+  {
+   "heading": "R41 R42 R43 R44",
+   "paragraphs": [
+    "15k 15k 620 15k",
+    "PARTS LiST Mh8iB CUE OSCILLATOR RE-ENTRY MODULE"
+   ]
+  },
+  {
+   "heading": "R45 R46 R4? R48 RL9",
+   "paragraphs": [
+    "Resistor 1/4w 5% 15k 22k 4K7 4K7 I0k Philips"
+   ]
+  },
+  {
+   "heading": "RSO R5I R52 R53 R54",
+   "paragraphs": [
+    "10k 220 2K2 300 300 1/2w 5% 1/4w 596"
+   ]
+  },
+  {
+   "heading": "R55 R56 R57",
+   "paragraphs": [
+    "J00 300 620 Swi SW2 SW3 Switch"
+   ]
+  },
+  {
+   "heading": "WBS 11-002",
+   "paragraphs": [
+    "U1 u2 u3 44 Integrated circuit National"
+   ]
+  },
+  {
+   "heading": "RI) R2)",
+   "paragraphs": [
+    "Knob (Black) Cap (Black) Elma 021-352 040-302"
+   ]
+  },
+  {
+   "heading": "R3) R4)",
+   "paragraphs": [
+    "Knob (Black Cap (Black) 021-352 040-302 Rs) R6) Knob (Black) Cap (Black 021-352 040-302",
+    "Knob (Black) Cap (Black) 021-352 040-302"
+   ]
+  }
+ ]
+}
