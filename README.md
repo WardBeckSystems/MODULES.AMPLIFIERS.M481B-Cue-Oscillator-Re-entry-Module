@@ -1,17 +1,17 @@
-# M481B · Amplifiers
+# M481B Cue Oscillator Re-entry Module · Amplifiers
 
 Ward-Beck Systems M481B, 1982|15. Wiki page: [M481B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M481B.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 19 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 29 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 109 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 27 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 26 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -147,22 +147,13 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKckRJWHo2cXFmNkk/view?resourcekey=0-2ibxhTRMvIXQSwSI7Yi-EA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKckRJWHo2cXFmNkk&resourcekey=0-2ibxhTRMvIXQSwSI7Yi-EA" width="240" alt="1982 - M481B - 481-04-002 - AUX MASTER REF OSC.jpg"></a><br><sub>1982|15 · 481-04-002 - AUX MASTER REF OSC · <a href="MECHANICAL/1982%20-%20M481B%20-%20481-04-002%20-%20AUX%20MASTER%20REF%20OSC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-## 3-D model
-
-[`MECHANICAL/M481B.stl`](MECHANICAL/M481B.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M481B)
-
-- **Size:** 62.2 × 341.03 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
-- **From the drawing:** 10 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M481B - front panel.svg`)
-- the drawn panel is 0.15 wide to high, the size 0.18: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M481B.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
-
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbmlya3JCc1Y4bkE/view?resourcekey=0-heUDHu2F9dyqjgKksnANBA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbmlya3JCc1Y4bkE&resourcekey=0-heUDHu2F9dyqjgKksnANBA" width="240" alt="1982 - M481B - 481-02-002 - CUE OSC RE-ENTRY MODULE SCHEMATIC.jpg"></a><br><sub>1982|15 · 481-02-002 - CUE OSC RE-ENTRY MODULE SCHEMATIC · <a href="SCHEMATICS/1982%20-%20M481B%20-%20481-02-002%20-%20CUE%20OSC%20RE-ENTRY%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVnJ2emdGR3F0VkU/view?resourcekey=0-f9DgWlgL--7qVLhxT_CQow" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVnJ2emdGR3F0VkU&resourcekey=0-f9DgWlgL--7qVLhxT_CQow" width="240" alt="1982 - M481B - 481-06-002 - CUE OSC RE-ENTRY MODULE COMPONENT LAYOUT.jpg"></a><br><sub>1982|15 · 481-06-002 - CUE OSC RE-ENTRY MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/1982%20-%20M481B%20-%20481-06-002%20-%20CUE%20OSC%20RE-ENTRY%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTFlETE5KXzJEOXc/view?resourcekey=0-DpTIi2ca_9NvmwLc_XHomA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTFlETE5KXzJEOXc&resourcekey=0-DpTIi2ca_9NvmwLc_XHomA" width="240" alt="1982 - M481B - P13 - Functional Diagram.jpg"></a><br><sub>1982|15 · P13 - Functional Diagram</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQVV5dmFuelFnVEk/view?resourcekey=0-THUpqiJeQc-SHnp3UY_IeA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQVV5dmFuelFnVEk&resourcekey=0-THUpqiJeQc-SHnp3UY_IeA" width="240" alt="19xx - M481B - DOC - 1202-02-011 - REDRAWN FOR.jpg"></a><br><sub>19xx - M481B - DOC - 1202-02-011 - REDRAWN FOR</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSzVWcnpkTEFZTm8/view?resourcekey=0-FJF7HDRRrq82yig-wShWHg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSzVWcnpkTEFZTm8&resourcekey=0-FJF7HDRRrq82yig-wShWHg" width="240" alt="19xx - M481B - DOC - 1202-02-012 - OOP SHE-DS.jpg"></a><br><sub>19xx - M481B - DOC - 1202-02-012 - OOP SHE-DS</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSW9DVDFJUjhHNDA/view?resourcekey=0-LsRL7zmoNnMRkR9JkF5V2A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSW9DVDFJUjhHNDA&resourcekey=0-LsRL7zmoNnMRkR9JkF5V2A" width="240" alt="19xx - M481B - DOC - 1202-02-017 - POSTS CHASSIS GROUND.jpg"></a><br><sub>19xx - M481B - DOC - 1202-02-017 - POSTS CHASSIS GROUND</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbmlya3JCc1Y4bkE/view?resourcekey=0-heUDHu2F9dyqjgKksnANBA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbmlya3JCc1Y4bkE&resourcekey=0-heUDHu2F9dyqjgKksnANBA" width="240" alt="1982 - M481B - 481-02-002 - CUE OSC RE-ENTRY MODULE SCHEMATIC.jpg"></a><br><sub>1982|15 · 481-02-002 - CUE OSC RE-ENTRY MODULE SCHEMATIC · <a href="SCHEMATICS/1982%20-%20M481B%20-%20481-02-002%20-%20CUE%20OSC%20RE-ENTRY%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVnJ2emdGR3F0VkU/view?resourcekey=0-f9DgWlgL--7qVLhxT_CQow" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVnJ2emdGR3F0VkU&resourcekey=0-f9DgWlgL--7qVLhxT_CQow" width="240" alt="1982 - M481B - 481-06-002 - CUE OSC RE-ENTRY MODULE COMPONENT LAYOUT.jpg"></a><br><sub>1982|15 · 481-06-002 - CUE OSC RE-ENTRY MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/1982%20-%20M481B%20-%20481-06-002%20-%20CUE%20OSC%20RE-ENTRY%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTFlETE5KXzJEOXc/view?resourcekey=0-DpTIi2ca_9NvmwLc_XHomA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTFlETE5KXzJEOXc&resourcekey=0-DpTIi2ca_9NvmwLc_XHomA" width="240" alt="1982 - M481B - P13 - Functional Diagram.jpg"></a><br><sub>1982|15 · P13 - Functional Diagram · <a href="SCHEMATICS/1982%20-%20M481B%20-%20P13%20-%20Functional%20Diagram%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQVV5dmFuelFnVEk/view?resourcekey=0-THUpqiJeQc-SHnp3UY_IeA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQVV5dmFuelFnVEk&resourcekey=0-THUpqiJeQc-SHnp3UY_IeA" width="240" alt="19xx - M481B - DOC - 1202-02-011 - REDRAWN FOR.jpg"></a><br><sub>19xx - M481B - DOC - 1202-02-011 - REDRAWN FOR · <a href="SCHEMATICS/19xx%20-%20M481B%20-%20DOC%20-%201202-02-011%20-%20REDRAWN%20FOR%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSzVWcnpkTEFZTm8/view?resourcekey=0-FJF7HDRRrq82yig-wShWHg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSzVWcnpkTEFZTm8&resourcekey=0-FJF7HDRRrq82yig-wShWHg" width="240" alt="19xx - M481B - DOC - 1202-02-012 - OOP SHE-DS.jpg"></a><br><sub>19xx - M481B - DOC - 1202-02-012 - OOP SHE-DS · <a href="SCHEMATICS/19xx%20-%20M481B%20-%20DOC%20-%201202-02-012%20-%20OOP%20SHE-DS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSW9DVDFJUjhHNDA/view?resourcekey=0-LsRL7zmoNnMRkR9JkF5V2A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSW9DVDFJUjhHNDA&resourcekey=0-LsRL7zmoNnMRkR9JkF5V2A" width="240" alt="19xx - M481B - DOC - 1202-02-017 - POSTS CHASSIS GROUND.jpg"></a><br><sub>19xx - M481B - DOC - 1202-02-017 - POSTS CHASSIS GROUND · <a href="SCHEMATICS/19xx%20-%20M481B%20-%20DOC%20-%201202-02-017%20-%20POSTS%20CHASSIS%20GROUND%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M481B - P13 - Functional Diagram.jpg`
@@ -202,8 +193,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbVhfTkl0SlowOEU/view?resourcekey=0-v_4paYZZELRQ2qXyvFBgyw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbVhfTkl0SlowOEU&resourcekey=0-v_4paYZZELRQ2qXyvFBgyw" width="240" alt="19xx - M481B - DOC - L1202A - P22 - 111-4.jpg"></a><br><sub>19xx - M481B - DOC - L1202A - P22 - 111-4</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSU1GVElVaEpFRnM/view?resourcekey=0-uDfNpm8pY_aQnjDK71iSbg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSU1GVElVaEpFRnM&resourcekey=0-uDfNpm8pY_aQnjDK71iSbg" width="240" alt="19xx - M481B - DOC - L1202A - P23 - 111-5.jpg"></a><br><sub>19xx - M481B - DOC - L1202A - P23 - 111-5</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRGVVUmx1MlN1ek0/view?resourcekey=0-vJM2sfewluMBwXhSfCFOAg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRGVVUmx1MlN1ek0&resourcekey=0-vJM2sfewluMBwXhSfCFOAg" width="240" alt="19xx - M481B - DOC - L1202A - P25 - IV-1.jpg"></a><br><sub>19xx - M481B - DOC - L1202A - P25 - IV-1</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M481B - P01 - TOC.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -211,7 +200,17 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1982 - M481B - 481-02-002 - CUE OSC RE-ENTRY MODULE SCHEMATIC.kicad_sch](KICAD/1982%20-%20M481B%20-%20481-02-002%20-%20CUE%20OSC%20RE-ENTRY%20MODULE%20SCHEMATIC.kicad_sch)
 - [1982 - M481B - Cue OSC Re-entry Module (2) p1.kicad_sch](KICAD/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20(2)%20p1.kicad_sch)
 - [1982 - M481B - Cue OSC Re-entry Module p15.kicad_sch](KICAD/1982%20-%20M481B%20-%20Cue%20OSC%20Re-entry%20Module%20p15.kicad_sch)
+- [1982 - M481B - P13 - Functional Diagram.kicad_sch](KICAD/1982%20-%20M481B%20-%20P13%20-%20Functional%20Diagram.kicad_sch)
+- [19xx - M481B - DOC - 1202-02-011 - REDRAWN FOR.kicad_sch](KICAD/19xx%20-%20M481B%20-%20DOC%20-%201202-02-011%20-%20REDRAWN%20FOR.kicad_sch)
+- [19xx - M481B - DOC - 1202-02-012 - OOP SHE-DS.kicad_sch](KICAD/19xx%20-%20M481B%20-%20DOC%20-%201202-02-012%20-%20OOP%20SHE-DS.kicad_sch)
+- [19xx - M481B - DOC - 1202-02-017 - POSTS CHASSIS GROUND.kicad_sch](KICAD/19xx%20-%20M481B%20-%20DOC%20-%201202-02-017%20-%20POSTS%20CHASSIS%20GROUND.kicad_sch)
+- [M481B - P13 - Functional Diagram.kicad_sch](KICAD/M481B%20-%20P13%20-%20Functional%20Diagram.kicad_sch)
 - [M481B.kicad_sym](KICAD/M481B.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
