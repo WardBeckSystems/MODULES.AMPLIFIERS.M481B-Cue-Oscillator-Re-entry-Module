@@ -1,5 +1,5 @@
 # M481B - P13 - Functional Diagram.jpg
-Wiki page: [M481B](../../../../PAGES/M481B.md)
+Wiki page: [M481B](../)
 
 
 - **Year:** unknown (title block (read by eye))

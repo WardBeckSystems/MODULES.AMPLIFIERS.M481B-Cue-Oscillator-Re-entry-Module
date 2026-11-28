@@ -1,6 +1,6 @@
 # M481B Cue Oscillator Re-entry Module · Amplifiers
 
-Ward-Beck Systems M481B, 1982|15. Wiki page: [M481B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M481B.html)
+Ward-Beck Systems M481B, 1982|15. Wiki page: [M481B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M481B-Cue-Oscillator-Re-entry-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

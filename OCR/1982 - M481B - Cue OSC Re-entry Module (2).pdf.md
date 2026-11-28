@@ -1,5 +1,5 @@
 # 1982 - M481B - Cue OSC Re-entry Module (2).pdf
-Wiki page: [M481B](../../../../PAGES/M481B.md)
+Wiki page: [M481B](../)
 
 
 - **Year:** 1982 (found in this file: "I SSUE 12 BS DECE MBER 1982")

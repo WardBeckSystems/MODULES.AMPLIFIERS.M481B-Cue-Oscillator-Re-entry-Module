@@ -1,5 +1,5 @@
 # 1982 - M481B - 481-04-002 - AUX MASTER REF OSC.jpg
-Wiki page: [M481B](../../../../PAGES/M481B.md)
+Wiki page: [M481B](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))

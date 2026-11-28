@@ -1,5 +1,5 @@
 # 1982 - M481B - 481-06-002 - CUE OSC RE-ENTRY MODULE COMPONENT LAYOUT.jpg
-Wiki page: [M481B](../../../../PAGES/M481B.md)
+Wiki page: [M481B](../)
 
 
 - **Year:** 1982 (module estimate (manual_issue))
